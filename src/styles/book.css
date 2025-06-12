@@ -1,0 +1,72 @@
+/* public/styles/book.css */
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #e8f4fc;
+  color: #333;
+}
+
+.background {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.content {
+  background: white;
+  padding: 3rem 2rem;
+  max-width: 700px;
+  border-radius: 12px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #005fa3;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 1.5rem 1rem;
+  color: #666;
+  background-color: #e8f4fc;
+}
+
+.footer a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}

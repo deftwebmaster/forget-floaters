@@ -1,0 +1,29 @@
+---
+// src/layouts/LandingPageLayout.astro
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{title}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/styles/book.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" />
+  </head>
+  <body>
+    <div class="background">
+      <main class="content">
+        <slot />
+      </main>
+    </div>
+
+    <footer class="footer">
+      <p>&copy; {new Date().getFullYear()} Kai Cox. All rights reserved. &nbsp;
+        <a href="/">Visit the Blog</a>
+      </p>
+    </footer>
+  </body>
+</html>
