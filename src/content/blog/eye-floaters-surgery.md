@@ -2,7 +2,7 @@
 title: "The Best Way to Treat Eye Floaters Without Surgery: What Actually Works"
 description: "Discover the best non-surgical treatments for eye floaters. Learn what actually works, what to avoid, and how to retrain your focus naturally."
 pubDate: "Jun 12 2025"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "/eye-floaters-surgery.png"
 ---
 
 Eye floaters are one of those invisible annoyances that can quickly take over your visual world. If you’ve been told to “just ignore them” but can’t seem to stop noticing squiggly lines, dots, or cobwebs drifting across your vision—especially on bright days or white screens—you’re not alone.

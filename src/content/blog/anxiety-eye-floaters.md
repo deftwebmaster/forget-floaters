@@ -2,7 +2,7 @@
 title: "Anxiety Caused by Eye Floaters: Why It Happens and How to Reclaim Your Peace"
 description: "Learn how eye floaters can trigger anxiety, why the brain reacts the way it does, and what you can do to regain control and peace of mind—without surgery."
 pubDate: "Jun 12 2025"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "/anxiety-eye-floaters.png"
 ---
 
 Seeing floaters drift across your vision can be annoying, sure—but for some people, it’s more than that. It can be downright **anxiety-inducing**. If you’ve felt overwhelmed, scared, or even panicked because of eye floaters, you’re not alone—and you’re not overreacting.
