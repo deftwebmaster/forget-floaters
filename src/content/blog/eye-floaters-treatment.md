@@ -123,7 +123,7 @@ Inside, you’ll learn:
 * Daily exercises to shift floaters into the background
 * What habits help, and what makes it worse
 
-👉 [Click here to get your copy now](#)
+👉 [Click here to get your copy now](/)
 
 **Don’t chase a cure. Change the pattern.**
 

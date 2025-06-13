@@ -172,6 +172,6 @@ Inside, you’ll learn:
 * Visual exposure techniques that reduce their mental impact
 * Real stories of people who forgot they even had floaters
 
-👉 [Click here to visit the official site and grab your copy](#)
+👉 [Click here to visit the official site and grab your copy](/)
 
 **You don’t need surgery to see clearly again. Just a shift in focus.**

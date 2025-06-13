@@ -116,6 +116,6 @@ Eye floaters don’t have to control your headspace. You can learn to *notice le
 📘 *Forget Floaters: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
 This isn’t a miracle cure. It’s a **mental shift**—a proven strategy to reduce floater awareness and reclaim your focus.
 
-👉 [Get the book here](#)
+👉 [Get the book here](/)
 
 **Freedom doesn’t start when the floaters disappear. It starts when your anxiety does.**
