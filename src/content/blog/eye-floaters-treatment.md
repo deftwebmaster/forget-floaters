@@ -113,7 +113,7 @@ And that starts with shifting your mindset.
 
 If you’ve tried all the advice and still find yourself stuck in the same visual and mental loop, I wrote something for you:
 
-📘 *Ignore the Specks: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
+📘 *Forget Floaters: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
 A no-fluff guide rooted in science, personal experience, and techniques that work.
 
 Inside, you’ll learn:

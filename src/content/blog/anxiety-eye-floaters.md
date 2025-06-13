@@ -113,7 +113,7 @@ Scrolling forums or asking the same questions reinforces fear. The more you chas
 
 Eye floaters don’t have to control your headspace. You can learn to *notice less*, react less, and eventually *not care at all*.
 
-📘 *Ignore the Specks: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
+📘 *Forget Floaters: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
 This isn’t a miracle cure. It’s a **mental shift**—a proven strategy to reduce floater awareness and reclaim your focus.
 
 👉 [Get the book here](#)

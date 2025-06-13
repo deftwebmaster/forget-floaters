@@ -162,7 +162,7 @@ Progress isn’t linear—but it *is* possible.
 
 If you’ve tried everything and are still frustrated, I’ve written a guide just for you.
 
-📘 *Ignore the Specks: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
+📘 *Forget Floaters: How to Retrain Your Brain to Stop Obsessing Over Eye Floaters*
 This is the no-fluff playbook I wish I had when floaters first took over my vision.
 
 Inside, you’ll learn:
