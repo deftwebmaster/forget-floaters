@@ -30,6 +30,23 @@
   font-style: normal;
   font-display: swap;
 }
+.button {
+  display: inline-block;
+  background-color: var(--accent);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: inherit;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: var(--accent-dark);
+  color: white;
+}
 body {
   font-family: "Atkinson", sans-serif;
   margin: 0;
