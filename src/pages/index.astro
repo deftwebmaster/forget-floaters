@@ -143,10 +143,34 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 </p>
 
 <h2>📥 Ready to Forget Your Floaters?</h2>
-<p>
-  <a href="#" class="button">Get the Book for $7</a>
-  <img src="/forget-floaters-cover.png" alt="Forget Floaters Book Cover" style="max-width: 280px; margin: 2rem auto; display: block;" />
-</p>
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+">
+  <!-- Book Cover -->
+  <div style="flex: 1 1 280px; text-align: center;">
+    <img src="/forget-floaters-cover.png" alt="Forget Floaters Book Cover"
+      style="max-width: 100%; height: auto;" />
+  </div>
+
+  <!-- Button -->
+  <div style="
+    flex: 1 1 280px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 280px;
+  ">
+    <a href="#buy" class="button">Get the Book for $7</a>
+  </div>
+</div>
+
 <p><em>Not sure yet? Floaters aren’t going anywhere — but your frustration doesn’t have to stay either.</em></p>
 
 
