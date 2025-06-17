@@ -42,10 +42,18 @@
   transition: background-color 0.3s ease;
   text-align: center;
 }
-
 .button:hover {
   background-color: var(--accent-dark);
   color: white;
+}
+.button-secondary {
+  background-color: #e0e7ff;
+  color: #1e1b4b;
+}
+
+.button-secondary:hover {
+  background-color: #c7d2fe;
+  color: #1e1b4b;
 }
 body {
   font-family: "Atkinson", sans-serif;
