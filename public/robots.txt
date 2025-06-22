@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://forgetfloaters.com/sitemap-index.xml
